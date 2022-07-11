@@ -99,3 +99,15 @@ article{
 .des-with-img a{
     color: #EB4747;
 }
+
+footer{
+    height: 180px;
+    background-color: #2C3639;
+}
+footer h1{
+    padding-top: 50px;
+}
+footer h1,footer p{
+    text-align: center;
+    color: #EB4747;
+}
