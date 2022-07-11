@@ -68,5 +68,34 @@ article{
 }
 
 .images img{
-    margin: 0 45px;
+    margin: 0 15px;
+    border-radius: 10px;
+}
+
+.extend-hands{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.extend-hands h2, .extend-hands p{
+    text-align: center;
+}
+.image-with-des{
+    display: flex;
+    padding: 0 10px;
+    margin:0 10px;
+    border-radius: 5px;
+}
+
+.des-with-img{
+    margin:0 25px;
+    padding: 0 5px;
+}
+.des-with-img img{
+    border-radius: 5px;
+}
+
+
+.des-with-img a{
+    color: #EB4747;
 }
