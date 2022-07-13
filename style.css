@@ -36,7 +36,6 @@ nav{
     display: inline-block;
     padding: 0 20px;
     color: aliceblue;
-    /* margin:; */
 }
 .nav__links li:hover{
     color: #EB4747;
